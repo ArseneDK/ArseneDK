@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArseneDK
-- 👀 I’m interested in Neuroscience, nutrition, gut microbiota and related dbehavior research 
+- 👀 I’m interested in Neuroscience, nutrition, gut microbiota and obesity research 
 - 🌱 I’m currently learning R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
