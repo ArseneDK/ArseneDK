@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArseneDK
 - 👀 I’m interested in Neuroscience, nutrition, gut microbiota and obesity research 
-- 🌱 I’m currently learning R
+- 🌱 I’m currently using R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://researchportal.helsinki.fi/fi/persons/arsene-kanyamibwa
 
