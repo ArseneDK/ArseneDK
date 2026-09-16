@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ArseneDK
-- 👀 I’m interested in Behavioural Neuroscience, nutrition, gut-brain axis and obesity research 
+- 👀 I’m interested in Behavioural & NUtritional Neuroscience, gut-brain axis and obesity research 
 - 🌱 I’m currently using R
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...https://researchportal.helsinki.fi/fi/persons/arsene-kanyamibwa
